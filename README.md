@@ -40,5 +40,4 @@
 	- `ltrace`, `ldd`, `gdb` and `objdump` can help
 	- You may need to install the `openssl` library to run the `crakme2` program: `sudo apt install libssl-dev`
 	- Edit the source list `sudo nano /etc/apt/sources.list` to add the following line: `deb http://security.ubuntu.com/ubuntu xenial-security main` Then `sudo apt update` and `sudo apt install libssl1.0.0`
->>>>>>> 113871b1af460c042ee84557c3139141a2ad9478
->>>>>>> 418c49639bca8f3af8eaccc6b0f220787c16e1f2
+
