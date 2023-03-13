@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-work
-=======
+
 
 # POINTERS, ARRAYS, & STRINGS.
 # TASKS
