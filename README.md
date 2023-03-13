@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-malloc ()
-=======
+
 # POINTERS, ARRAYS, & STRINGS.
 # TASKS
 0. Write a function that fills memory with a constant byte.
